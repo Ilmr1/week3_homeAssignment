@@ -1,4 +1,4 @@
-# Employee Management Application
+# Employee Management System
 
 ## Overview
 The Java-based Employee Management Application handles employee information in English, Farsi, and Japanese, storing data in a MySQL database.
